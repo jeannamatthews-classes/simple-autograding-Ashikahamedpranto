@@ -1,6 +1,4 @@
 This is a sample feedback message.
 
-echo "This is my feedback on the assignment." > FEEDBACK.txt
-
 
 
