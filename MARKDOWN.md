@@ -17,9 +17,7 @@ A **text file** (.txt) and a **markdown file** (.md) may seem similar at first, 
     - `**bold**` for bold text
     - `*italic*` for italic text
     - `-` or `*` for lists
-
-### Example:
-
+ 
 #### In a Markdown file:
 ```markdown
 # My Header
@@ -40,3 +38,4 @@ file_path_markdown
 
 
 my repository name is Second_Assignment
+
