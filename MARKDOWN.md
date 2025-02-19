@@ -1,6 +1,3 @@
-# Creating a markdown file with the requested content and different styles
-
-markdown_content = """
 # Difference Between a Text File and a Markdown File
 
 A **text file** (.txt) and a **markdown file** (.md) may seem similar at first, but they serve different purposes and have distinct features:
