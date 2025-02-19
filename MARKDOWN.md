@@ -17,13 +17,8 @@ A **text file** (.txt) and a **markdown file** (.md) may seem similar at first, 
     - `**bold**` for bold text
     - `*italic*` for italic text
     - `-` or `*` for lists
- 
-#### In a Markdown file:
-```markdown
-# My Header
-Here is **bold** text and *italic* text.
 
-#### Adding the additional information about the repository name to the markdown file
+ #### Adding the additional information about the repository name to the markdown file
 
 additional_info = """
 ## 4. Repository Created
@@ -38,4 +33,10 @@ file_path_markdown
 
 
 my repository name is Second_Assignment
+
+#### In a Markdown file:
+```markdown
+# My Header
+Here is **bold** text and *italic* text.
+
 
