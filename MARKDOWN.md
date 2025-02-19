@@ -18,17 +18,11 @@ A **text file** (.txt) and a **markdown file** (.md) may seem similar at first, 
     - `*italic*` for italic text
     - `-` or `*` for lists
 
- #### Adding the additional information about the repository name to the markdown file
+## 4. **Repository Created**
+I created a repository called **Second_Assignment** using my user dashboard. This repository is designed to hold the files and documentation related to my second assignment.
 
-additional_info = """
-## 4. Repository Created
-I created a repository called **Second_Assignment** using my user dashboard. This repository is designed to hold the files and documentation related to my second assignment. 
-"""
+#### Example of Markdown Usage:
 
-
-#### In a Markdown file:
 ```markdown
 # My Header
 Here is **bold** text and *italic* text.
-
-
