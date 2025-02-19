@@ -25,14 +25,6 @@ additional_info = """
 I created a repository called **Second_Assignment** using my user dashboard. This repository is designed to hold the files and documentation related to my second assignment. 
 """
 
-# Opening the existing markdown file and appending the additional information
-with open(file_path_markdown, 'a') as file:
-    file.write(additional_info)
-
-file_path_markdown
-
-
-my repository name is Second_Assignment
 
 #### In a Markdown file:
 ```markdown
